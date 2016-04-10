@@ -1,0 +1,13 @@
+{
+  "name": "apollo-slackin",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bufferutil": "^1.2.1",
+    "meteor-node-stubs": "~0.2.0",
+    "slackin": "^0.6.0",
+    "utf-8-validate": "^1.2.1"
+  }
+}
